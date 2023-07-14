@@ -1,7 +1,7 @@
 #main-body {
 	border:1px solid;
 	width: 1000px;
-	height: 1000px;
+	/*height: 1000px;*/
 	margin-left: auto;
 	margin-right: auto;
 	font-family: Verdana;
@@ -17,6 +17,5 @@
 	nav {
 		font-size: 20px;
 		font-family: Helvetica;
-		
 	}
 	
