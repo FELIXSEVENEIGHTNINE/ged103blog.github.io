@@ -1,5 +1,5 @@
 #main-body {
-	border:1px solid;
+	border:0px solid;
 	width: 1000px;
 	/*height: 1000px;*/
 	margin-left: auto;
@@ -17,5 +17,42 @@
 	nav {
 		font-size: 20px;
 		font-family: Helvetica;
+		margin-left: 190px;
+		margin-right: 250px;
+	}
+	
+#text {
+	width: 800px;
+	border: 0px solid;
+	margin: 0px auto;
+}
+
+	.texter {
+		font-size: 16px;
+		margin: 20px 30px 50px 30px;
+	}
+	
+		.texter p {
+			text-indent: 50px;
+			margin-bottom: 20px;
+		}
+
+footer {
+	background-color: White;
+	padding-top: 50px;
+}
+
+	.footer-nav {
+		margin-left: 0px;
+		margin-bottom: 40px;
+	}
+	.footer-nav a {
+		color: Black;
+		transition: .2s;
+		font-size: 16px;
+	}
+	
+	.footer-nav a:hover {
+		text-decoration: none;
 	}
 	
