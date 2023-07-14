@@ -38,6 +38,7 @@
 		}
 
 footer {
+	border-top: 1px solid;
 	background-color: White;
 	padding-top: 50px;
 }
