@@ -5,6 +5,7 @@
 	margin-left: auto;
 	margin-right: auto;
 	font-family: Verdana;
+	/*background-color: #fbffc9;*/
 }
 
 /*#nav {
@@ -19,6 +20,7 @@
 		font-family: Helvetica;
 		margin-left: 190px;
 		margin-right: 250px;
+		
 	}
 	
 #text {
@@ -33,6 +35,10 @@
 		margin-top: 30px;
 		margin-bottom: 30px;
 	}
+	
+		.message {
+			color: Green;
+		}
 
 	.texter {
 		font-size: 16px;
